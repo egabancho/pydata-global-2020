@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# presentation sources
+*.key
+
+# examples
+*.db

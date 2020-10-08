@@ -1,0 +1,6 @@
+jupyter
+psutil
+numba
+numpy
+unsync
+sqlalchemy
